@@ -1,6 +1,6 @@
 <?php
 
-function merge_sort(array $arr)
+function merge_sort(array $arr): array
 {
     $countArr = \count($arr);
 
